@@ -13,3 +13,5 @@ INSERT INTO students VALUES (6, 'Wasim', 84);
 INSERT INTO students VALUES (7, 'Arbina', 110);
 
 SELECT * FROM students;
+
+
