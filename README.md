@@ -18,3 +18,7 @@ I am starting my journey to become a Data Analyst.
 ## 📅 Daily Progress:
 
 Day 1 - Created GitHub repository and started journey
+
+Day 2 - Learned Python basics (input, addition, subtraction, multiplication, Division)
+
+     - Built calculator using Python (input, arithmetic operations)
