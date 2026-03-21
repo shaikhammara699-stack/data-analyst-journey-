@@ -22,3 +22,5 @@ Day 1 - Created GitHub repository and started journey
 Day 2 - Learned Python basics (input, addition, subtraction, multiplication, Division)
 
      - Built calculator using Python (input, arithmetic operations)
+
+Day 2 - Completed SQL basics (CREATE, INSERT, SELECT, WHERE) and built Student Data Analysis project
