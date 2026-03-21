@@ -24,3 +24,27 @@ Day 2 - Learned Python basics (input, addition, subtraction, multiplication, Div
      - Built calculator using Python (input, arithmetic operations)
 
 Day 2 - Completed SQL basics (CREATE, INSERT, SELECT, WHERE) and built Student Data Analysis project
+
+# Student Result Analysis
+
+## 📊 Project Overview
+This project analyzes student marks using SQL and Python.
+
+## 🛠 Tools Used
+- SQL (SQLite)
+- Python
+
+## 📈 Features
+- Calculate average marks
+- Find highest and lowest marks
+- Identify high scorers (>=75)
+- Identify low scorers (<75)
+
+## 📂 Files
+- student_analysis.sql
+- student_analysis.py
+
+## 🚀 Author
+Ammara Shaikh
+
+GitHub: https://github.com/shaikhammara699-stack
